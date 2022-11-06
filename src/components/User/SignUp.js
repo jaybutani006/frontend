@@ -74,7 +74,7 @@ const SignUp = () => {
           <div className="box-form">
             <div className="left">
               <div className="overlay">
-                <h1>Hello World.</h1>
+                <h1>Welcome Back To Information Security</h1>
               </div>
             </div>
 
@@ -126,8 +126,10 @@ const SignUp = () => {
                   <br />
 
                   <button type="submit">SignUp</button>
-                  </form>
-                  <p id="loginLink">Already have account? <Link to="/login">Login</Link></p>
+                </form>
+                <p id="loginLink">
+                  Already have account? <Link to="/login">Login</Link>
+                </p>
               </div>
             </div>
           </div>

@@ -49,7 +49,7 @@ const Login = () => {
           <div className="box-form">
             <div className="left">
               <div className="overlay">
-                <h1>Hello World.</h1>
+                <h1>Welcome Back To Information Security</h1>
               </div>
             </div>
 
